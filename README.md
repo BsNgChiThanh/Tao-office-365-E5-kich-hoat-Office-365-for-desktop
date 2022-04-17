@@ -48,6 +48,18 @@ Chúng ta đăng nhập tài khoản Admin Office 365 E5 vừa tạo ra [ấn v�
 Đăng nhập xong chúng ta bấm vào chữ A có bánh răn ![1](https://user-images.githubusercontent.com/82578024/163702165-0df9eb28-9d34-4696-a1b9-b54e11c24786.jpg)
 Vậy là chúng ta đã đăng nhập được vào Admin Office 365 E5.
 
+# TẮT XÁC MINH 2 YẾU TỐ #
+
+Truy cập Azure Active Directory (yêu cầu đăng nhập bằng tài khoản có quyền quản trị cao nhất – Golbal Admin) [Bấm vào đây](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Properties)
+
+![1](https://user-images.githubusercontent.com/82578024/163706202-58a6dbfd-5b3c-4679-a892-3f7c955c2b53.jpg)
+
+Tại mục “Properties” hãy chọn dòng cuối cùng “Manage Security defaults”, tại đay bạn hãy chọn “No” sau đó lưu lại.
+
+![1](https://user-images.githubusercontent.com/82578024/163706298-4fc5243d-1132-4fc4-ae74-f19f2de65354.jpg)
+
+Vậy là thành công!
+
 # DOWNLOAD BỘ OFFICE 365 CÀI ĐẶT CHO MÁY TÍNH (OFFICE 365 FOR DESKTOP) #
 
 ![1](https://user-images.githubusercontent.com/82578024/163702329-4cf9e0b1-3c06-4e04-9ab3-deff588a6e86.jpg)
@@ -76,13 +88,90 @@ Thế là một bản office 365 cài đặt trực tuyến được tải xuố
 
 # KÍCH HOẠT OFFICE 365 CHO MÁY TÍNH #
 
-còn viết nữa, chưa xong
+Bạn bấm vô File chọn Account, bất đầu Sign in tài khoản kích hoạt, ở đây tôi nhập A1 Plus nhé các bạn, nhập E5 cũng vậy thôi.
 
+![1](https://user-images.githubusercontent.com/82578024/163706656-303f77e4-5b64-446c-a954-8959d6a72a41.jpg)
 
+Bấm Next
 
+![1](https://user-images.githubusercontent.com/82578024/163706677-adcd8a86-281c-49da-97b8-3d69348767ab.jpg)
 
+Chọn Work or School account
 
+![1](https://user-images.githubusercontent.com/82578024/163706742-32522fd1-d51b-493f-9d92-de840a60c458.jpg)
 
+Nhập Password và nhấn Sign in
 
+![1](https://user-images.githubusercontent.com/82578024/163706807-3aa1b9ab-ee2b-455e-973f-ffa967177070.jpg)
 
+Bấm Next là ok, trong hình thì Account này mới kích hoạt được 3 PC
 
+[Tài khoản A1Plus, A3, A5, E5 tạo sẵn, các bạn cứ dùng active thoải mái, bấm vào đây](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EQa9vlOr8JdOqcUEYGyjjfQBvW7eHmeqtjR1KMf__A2lHw?e=Ssmr8h)
+
+# ĐIỀU CHỈNH CÁC THÔNG SỐ MẶC ĐỊNH CHO OFFICE 365 #
+
+## 1. Bỏ mặt định trang khởi động Office 365. ##
+
+Khi cài đặt và active xong, khi mở Office 365 bạn thấy:
+
+![1](https://user-images.githubusercontent.com/82578024/163707005-956cc519-c4c7-4504-ada4-a524fc1b47b0.jpg)
+
+Bấm vào Blank document sẽ dẫn đến trang bình thường, để chúng không xuất hiện ở những lần sau, bạn bấm vào File rồi chọn Options
+
+![1](https://user-images.githubusercontent.com/82578024/163707039-89b20698-6181-4cf2-ae5c-787807ab12f8.jpg)
+
+Bỏ dấu check ở ô: Show the Start screen when this application starts, Bấm ok là xong!
+
+## 2. Chọn save mặc định: ##
+
+![1](https://user-images.githubusercontent.com/82578024/163707124-e49be9ee-1721-442f-b0ca-cdaa5533cc34.jpg)
+
+Office 365 khi cài xong, bấm vô Save nó xuất hiện như thế này, khác với Office 2007 và 2010, nên quí vị cần phải điều chỉnh:
+
+![1](https://user-images.githubusercontent.com/82578024/163707187-11c7998c-948a-4d13-acb1-26ac273e4c1f.jpg)
+
+Vô File chọn Options
+
+![1](https://user-images.githubusercontent.com/82578024/163707216-4da96b3e-a96f-45ad-becc-ac3bb4c3c4b1.jpg)
+
+Bấm vào tab Save, Check thêm vào ô: Don’t show the Backstage when opening or saving files with keyboard shotcuts. Bấm OK là mọi việc thuận lợi
+
+![1](https://user-images.githubusercontent.com/82578024/163707270-e0f7dd58-5c60-425f-b013-039d1831a54d.jpg)
+
+Vậy là sau khi bấm vào biểu tượng Save nó hiện ra tab quen thuộc, Còn bạn nào muốn save vào thư mục cố định nào thì vào Tab Save cài đặt lúc đầu điều chỉnh
+
+![1](https://user-images.githubusercontent.com/82578024/163707315-199be633-f213-4965-9887-2b7b7e49f26e.jpg)
+
+Chọn Browse dưới hàng Save to Computer by defaut
+
+![1](https://user-images.githubusercontent.com/82578024/163707344-c9dc61f6-5f72-4d47-b03f-c00d872118ec.jpg)
+
+Chọn thư mục bạn muốn Save mặc định vào đấy và bấm ok là xong.
+
+## 3.Chọn font và cở chữ mặc định ##
+
+Vô Tab Home Click trỏ theo dấu mũi tên
+
+![1](https://user-images.githubusercontent.com/82578024/163707389-6bb4111d-ae50-4384-b00c-b94e5a564a4c.jpg)
+
+Sổ xuống chọn font chuẩn và cở chuẩn, sau đó bất Set As Default
+
+![1](https://user-images.githubusercontent.com/82578024/163707422-cbc3be87-cefa-4ac0-bbdf-baf2c671b639.jpg)
+
+Chọn All documents based on the Normal template? Bấm Ok là xong
+
+## 4.Chọn thước định dạng cm ##
+
+Vô File chọn Options
+
+![1](https://user-images.githubusercontent.com/82578024/163707471-7ec0b165-151e-4693-a1e8-5b4ec59930d1.jpg)
+
+Chọn Tab Advanced và Tab Display sổ dòng Show measurements in units of: chọn centimeters bấm Ok là xong
+
+Nếu vẫn chưa hiện thước, bạn vô Tab View
+
+![1](https://user-images.githubusercontent.com/82578024/163707516-93fe85c9-c4b2-41fa-82b0-2a89537e4450.jpg)
+
+Bấm Ruler là Xong.
+
+[Chia sẻ địa điểm trên Google map](https://goo.gl/maps/KVPg6Z9B85fP9Y4g9)
