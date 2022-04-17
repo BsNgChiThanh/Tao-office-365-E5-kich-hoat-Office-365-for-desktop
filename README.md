@@ -4,7 +4,7 @@ Tạo office 365 E5 và kích hoạt Office 365 for desktop, điều chỉnh m�
 # ĐẶT VẤN ĐỀ #
 Tình hình nhu cầu sử dụng key Office tăng cao trong khi nguồn key khan hiếm, chưa kể một số bạn không biết cách kích hoạt qua điện thoại, nhập nhầm key bản office nên rất khó tìm ra giải pháp kích hoạt, Mình viết bài này để giúp các bạn sử dụng office 365 thật tiện lợi! Miễn là bạn có tài khoản Microsoft cá nhân hoặc tài khoản Office 365 A1, điều đó là tốt!
 
-Bây giờ mình sẽ tiến hành tạo tài khoản Admin cho riêng mình, Admin này có quyền tạo 25 người dùng, và được sử dụng trong 92 ngày kể từ ngày tạo Admin, sau đó Microsoft tự gia hạn thêm 92 nữa v.v. Mình đã được gia hạn 3 lần rồi, bạn bè mình nói là Microsoft sẽ tự động gia hạn nhiều lần.
+Bây giờ mình sẽ tiến hành tạo tài khoản Admin cho riêng mình, Admin này có quyền tạo 25 người dùng, và được sử dụng trong 92 ngày kể từ ngày tạo Admin, sau đó Microsoft tự gia hạn thêm 92 nữa, lập đi lập lại nhiều lần, mình đã được gia hạn 6 lần rồi mà vẫn ngon lành cành đào.
 
 # TẠO ADMIN OFFICE 365 E5 #
 
