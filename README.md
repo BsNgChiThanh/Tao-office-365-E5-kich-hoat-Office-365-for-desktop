@@ -110,7 +110,7 @@ Bấm Next là ok, trong hình thì Account này mới kích hoạt được 3 P
 
 # ĐIỀU CHỈNH CÁC THÔNG SỐ MẶC ĐỊNH CHO OFFICE 365 #
 
-## 1. Bỏ mặt định trang khởi động Office 365. ##
+## 1. Bỏ mặc định trang khởi động Office 365. ##
 
 Khi cài đặt và active xong, khi mở Office 365 bạn thấy:
 
