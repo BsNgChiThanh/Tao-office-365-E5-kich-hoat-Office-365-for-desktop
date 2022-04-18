@@ -52,6 +52,11 @@ Chúng ta đăng nhập tài khoản Admin Office 365 E5 vừa tạo ra [ấn v�
 Đăng nhập xong chúng ta bấm vào chữ A có bánh răn ![1](https://user-images.githubusercontent.com/82578024/163702165-0df9eb28-9d34-4696-a1b9-b54e11c24786.jpg)
 Vậy là chúng ta đã đăng nhập được vào Admin Office 365 E5.
 
+Khi tạo ra tài khoản admin này thì Onedrive của nó chỉ có 1Tb, bạn phải chỉnh sửa để nâng lên 5Tb và các user tạo ra cũng như thế thì [bấm vào đây tham khảo](https://youtu.be/8zK_51eBFXs)
+
+# ĐƯỢC QUYỀN TẠO 25 USER, [BẤM VÀO ĐÂY ĐỂ THAM KHẢO](https://www.google.com.vn/amp/s/dangnhatminh.com/huong-dan-tao-tai-khoan-phan-quyen-user-trong-office-365/amp/) #
+25 tài này khoản được tạo ra cũng được autorenew (tự động gia hạn)
+
 # TẮT XÁC MINH 2 YẾU TỐ #
 
 Truy cập Azure Active Directory (yêu cầu đăng nhập bằng tài khoản có quyền quản trị cao nhất – Golbal Admin) [Bấm vào đây](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Properties)
@@ -63,11 +68,6 @@ Tại mục “Properties” hãy chọn dòng cuối cùng “Manage Security d
 ![1](https://user-images.githubusercontent.com/82578024/163706298-4fc5243d-1132-4fc4-ae74-f19f2de65354.jpg)
 
 Vậy là thành công!
-
-Khi tạo ra tài khoản admin này thì Onedrive của nó chỉ có 1Tb, bạn phải chỉnh sửa để nâng lên 5Tb và các user tạo ra cũng như thế thì [bấm vào đây tham khảo](https://youtu.be/8zK_51eBFXs)
-
-# ĐƯỢC QUYỀN TẠO 25 USER, [BẤM VÀO ĐÂY ĐỂ THAM KHẢO](https://www.google.com.vn/amp/s/dangnhatminh.com/huong-dan-tao-tai-khoan-phan-quyen-user-trong-office-365/amp/) #
-25 tài này khoản được tạo ra cũng được autorenew (tự động gia hạn)
 
 # DOWNLOAD BỘ OFFICE 365 CÀI ĐẶT CHO MÁY TÍNH (OFFICE 365 FOR DESKTOP) #
 
