@@ -185,4 +185,11 @@ Nếu vẫn chưa hiện thước, bạn vô Tab View
 
 Bấm Ruler là Xong.
 
+# TẠO MATH TYPE CHO OFFICE 365 E5 #
+
+Nhiều người đi thì Math Type, lại crack tốn nhiều công sức, Microsoft triển khai Math Type cho Office 365 E5, có cả 2 phần công thức toán và hóa học. [Bấm vào đây để tham khảo](https://youtu.be/SPRKoLiTKEw)
+
+# LẤY THÊM GIẤY PHÉP CHO ADMIN OFFICE 365 E5 #
+
+
 [Chia sẻ địa điểm trên Google map](https://goo.gl/maps/KVPg6Z9B85fP9Y4g9)
