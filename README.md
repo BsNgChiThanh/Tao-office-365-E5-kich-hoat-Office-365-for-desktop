@@ -64,6 +64,8 @@ Tại mục “Properties” hãy chọn dòng cuối cùng “Manage Security d
 
 Vậy là thành công!
 
+Khi tạo ra tài khoản admin này thì Onedrive của nó chỉ có 1Tb, bạn phải chỉnh sửa để nâng lên 5Tb và các user tạo ra cũng như thế thì [bấm vào đây tham khảo](https://youtu.be/8zK_51eBFXs)
+
 # ĐƯỢC QUYỀN TẠO 25 USER, [BẤM VÀO ĐÂY ĐỂ THAM KHẢO](https://www.google.com.vn/amp/s/dangnhatminh.com/huong-dan-tao-tai-khoan-phan-quyen-user-trong-office-365/amp/) #
 25 tài này khoản được tạo ra cũng được autorenew (tự động gia hạn)
 
