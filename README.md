@@ -191,5 +191,14 @@ Nhiều người đi thì Math Type, lại crack tốn nhiều công sức, Micr
 
 # LẤY THÊM GIẤY PHÉP CHO ADMIN OFFICE 365 E5 #
 
+Đăng nhập Admin 365 vào các Link sau để lấy thêm giấy phép:
+
+POWER BI: [Bấm vào đây](https://powerbi.microsoft.com/en-us/getting-started-with-power-bi/) 
+
+POWER APPS: [Bấm vào đây](https://powerapps.microsoft.com/en-us/) 
+
+POWER VIRTUAL: [Bấm vào đây](https://powervirtualagents.microsoft.com/en-us/) 
+
+POWER AUTOMATE: [Bấm vào đây](https://flow.microsoft.com/vi-vn/)
 
 [Chia sẻ địa điểm trên Google map](https://goo.gl/maps/KVPg6Z9B85fP9Y4g9)
