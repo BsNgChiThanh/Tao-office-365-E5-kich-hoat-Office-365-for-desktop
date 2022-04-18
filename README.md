@@ -64,6 +64,9 @@ Tại mục “Properties” hãy chọn dòng cuối cùng “Manage Security d
 
 Vậy là thành công!
 
+# ĐƯỢC QUYỀN TẠO 25 USER, [BẤM VÀO ĐÂY ĐỂ THAM KHẢO](https://www.google.com.vn/amp/s/dangnhatminh.com/huong-dan-tao-tai-khoan-phan-quyen-user-trong-office-365/amp/) #
+25 tài này khoản được tạo ra cũng được autorenew (tự động gia hạn)
+
 # DOWNLOAD BỘ OFFICE 365 CÀI ĐẶT CHO MÁY TÍNH (OFFICE 365 FOR DESKTOP) #
 
 ![1](https://user-images.githubusercontent.com/82578024/163702329-4cf9e0b1-3c06-4e04-9ab3-deff588a6e86.jpg)
@@ -109,6 +112,8 @@ Nhập Password và nhấn Sign in
 ![1](https://user-images.githubusercontent.com/82578024/163706807-3aa1b9ab-ee2b-455e-973f-ffa967177070.jpg)
 
 Bấm Next là ok, trong hình thì Account này mới kích hoạt được 3 PC
+
+Một tài khoản hoạt được 10 máy.
 
 [Tài khoản A1Plus, A3, A5, E5 tạo sẵn, các bạn cứ dùng active thoải mái, bấm vào đây](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EQa9vlOr8JdOqcUEYGyjjfQBvW7eHmeqtjR1KMf__A2lHw?e=Ssmr8h)
 
