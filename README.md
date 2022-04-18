@@ -1,5 +1,5 @@
 # Tao-office-365-E5-kich-hoat-Office-365-for-desktop
-Tạo office 365 E5 và kích hoạt Office 365 for desktop, điều chỉnh mặc định office 365, triển khai Math Type cho Office
+Tạo office 365 E5 và kích hoạt Office 365 for desktop, điều chỉnh mặc định office 365, triển khai Math Type cho Office, tắt xác minh 2 yếu tố
 
 # ĐẶT VẤN ĐỀ #
 Tình hình nhu cầu sử dụng key Office tăng cao trong khi nguồn key khan hiếm, chưa kể một số bạn không biết cách kích hoạt qua điện thoại, nhập nhầm key bản office nên rất khó tìm ra giải pháp kích hoạt, Mình viết bài này để giúp các bạn sử dụng office 365 thật tiện lợi! Miễn là bạn có tài khoản Microsoft cá nhân hoặc tài khoản Office 365 A1, điều đó là tốt!
