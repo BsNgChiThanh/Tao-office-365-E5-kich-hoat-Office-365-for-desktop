@@ -52,9 +52,12 @@ Chúng ta đăng nhập tài khoản Admin Office 365 E5 vừa tạo ra [ấn v�
 Đăng nhập xong chúng ta bấm vào chữ A có bánh răn ![1](https://user-images.githubusercontent.com/82578024/163702165-0df9eb28-9d34-4696-a1b9-b54e11c24786.jpg)
 Vậy là chúng ta đã đăng nhập được vào Admin Office 365 E5.
 
-Khi tạo ra tài khoản admin này thì Onedrive của nó chỉ có 1Tb, bạn phải chỉnh sửa để nâng lên 5Tb và các user tạo ra cũng như thế thì [bấm vào đây tham khảo](https://youtu.be/8zK_51eBFXs)
+Khi tạo ra tài khoản admin này thì Onedrive của nó chỉ có 1Tb, bạn phải chỉnh sửa để nâng lên 5Tb và các user tạo ra cũng như thế thì Xem video:
+
+https://user-images.githubusercontent.com/82578024/167624486-fe539c4f-b2e1-407d-b668-97c79e51c842.mp4
 
 # ĐƯỢC QUYỀN TẠO 25 USER, [BẤM VÀO ĐÂY ĐỂ THAM KHẢO](https://www.google.com.vn/amp/s/dangnhatminh.com/huong-dan-tao-tai-khoan-phan-quyen-user-trong-office-365/amp/) #
+
 [Xem Video](https://pwht-my.sharepoint.com/:v:/g/personal/a316_office365vn_online/EYcuOG8rP9FKugRanFYodbABG3UY4GrvWNShIHEA3gJNWQ?e=ga2QUl), 25 tài này khoản được tạo ra cũng được autorenew (tự động gia hạn)
 
 # TẮT XÁC MINH 2 YẾU TỐ #
