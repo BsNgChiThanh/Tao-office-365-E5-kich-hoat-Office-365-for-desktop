@@ -72,6 +72,19 @@ Tại mục “Properties” hãy chọn dòng cuối cùng “Manage Security d
 
 Vậy là thành công!
 
+# LIÊN KẾT MIỀN #
+
+Miền được tạo ra trong trường hợp này dài, đôi khi khó nhớ ví dụ: xyzab.onmicrosoft.com ... Thế thì chúng ta dùng một tên miền ngắn như bsthanh.tk, tieuho.tk để làm được điều này một số bạn mua miền rất tốn kém, hãy dùng miễn phí tại đây:
+
+```php
+https://www.freenom.com
+```
+Sử dụng 12 tháng miễn phí, trước lúc hết hạn 14 ngày bạn vào đó gia hạn miễn phí thêm 12 tháng tiếp tục và lập đi lập lại!
+
+Sau khi đăng ký dùng miễn phí 12 tháng bạn liên kết miền này với admin office 365 E5 của bạn
+
+**[Xem video liên kết miền bấm vào đây](https://youtu.be/yRblwFAeL3I)**
+
 # DOWNLOAD BỘ OFFICE 365 CÀI ĐẶT CHO MÁY TÍNH (OFFICE 365 FOR DESKTOP) #
 
 ![1](https://user-images.githubusercontent.com/82578024/163702329-4cf9e0b1-3c06-4e04-9ab3-deff588a6e86.jpg)
