@@ -81,6 +81,10 @@ https://www.freenom.com
 ```
 Sử dụng 12 tháng miễn phí, trước lúc hết hạn 14 ngày bạn vào đó gia hạn miễn phí thêm 12 tháng tiếp tục và lập đi lập lại!
 
+**Gia hạn miền Freenom, xem Video!**
+
+https://user-images.githubusercontent.com/82578024/186059201-6391e0ae-7199-4b66-b2d4-23d78093197b.mp4
+
 Sau khi đăng ký dùng miễn phí 12 tháng bạn liên kết miền này với admin office 365 E5 của bạn
 
 **[Xem video liên kết miền bấm vào đây](https://youtu.be/yRblwFAeL3I)**
