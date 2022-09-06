@@ -12,7 +12,7 @@ Trước khi bắt đầu, bạn phải có một tài khoản Office 365 A1 ho�
 
 Các bạn có thể dùng mail dạng @gmail.com hay @hotmal.com để đăng ký tài khoản Microsoft này
 
-[Bấm vào đây để bất đầu](https://developer.microsoft.com/en-us/microsoft-365/profile), sau đó đăng nhập tài khoản Microsoft hoặc tài khoản Office 365 A1 để bắt đầu đăng ký
+[Bấm vào đây để bất đầu](https://developer.microsoft.com/en-us/microsoft-365/dev-program), sau đó đăng nhập tài khoản Microsoft hoặc tài khoản Office 365 A1 để bắt đầu đăng ký
 
 ![1](https://user-images.githubusercontent.com/82578024/163701400-d9eb95c4-aa10-4121-bee9-3391d6f3ad68.jpg)
 
