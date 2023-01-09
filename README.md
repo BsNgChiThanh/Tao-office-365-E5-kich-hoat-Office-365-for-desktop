@@ -56,9 +56,15 @@ Khi tạo ra tài khoản admin này thì Onedrive của nó chỉ có 1Tb, bạ
 
 https://user-images.githubusercontent.com/82578024/167624486-fe539c4f-b2e1-407d-b668-97c79e51c842.mp4
 
-# ĐƯỢC QUYỀN TẠO 25 USER, [BẤM VÀO ĐÂY ĐỂ THAM KHẢO](https://www.google.com.vn/amp/s/dangnhatminh.com/huong-dan-tao-tai-khoan-phan-quyen-user-trong-office-365/amp/) #
+# ĐƯỢC QUYỀN TẠO 25 USER, 25 tài này khoản được tạo ra cũng được autorenew (tự động gia hạn) #
 
-[Xem Video](https://pwht-my.sharepoint.com/:v:/g/personal/a316_office365vn_online/EYcuOG8rP9FKugRanFYodbABG3UY4GrvWNShIHEA3gJNWQ?e=ga2QUl), 25 tài này khoản được tạo ra cũng được autorenew (tự động gia hạn)
+Tạo user mới:
+
+https://user-images.githubusercontent.com/82578024/211283411-441f9748-c61e-4622-9c76-6efda7bc2837.mp4
+
+Xóa user:
+
+https://user-images.githubusercontent.com/82578024/211283941-a30b6290-a4d2-486a-a7c4-24ab49b9b8f1.mp4
 
 # TẮT XÁC MINH 2 YẾU TỐ #
 
