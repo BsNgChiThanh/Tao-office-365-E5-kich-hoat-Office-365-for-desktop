@@ -146,7 +146,7 @@ Bấm Next là ok, trong hình thì Account này mới kích hoạt được 3 P
 
 Một tài khoản hoạt được 10 máy.
 
-[Tài khoản A1Plus, A3, A5, E5 tạo sẵn, các bạn cứ dùng active thoải mái, bấm vào đây](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EQa9vlOr8JdOqcUEYGyjjfQBvW7eHmeqtjR1KMf__A2lHw?e=Ssmr8h)
+[Tài khoản A1Plus, A3, A5, E5 tạo sẵn, các bạn cứ dùng active thoải mái, bấm vào đây](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/EQa9vlOr8JdOqcUEYGyjjfQBvW7eHmeqtjR1KMf__A2lHw?e=Ssmr8h)
 
 # ĐIỀU CHỈNH CÁC THÔNG SỐ MẶC ĐỊNH CHO OFFICE 365 #
 
