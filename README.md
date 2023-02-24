@@ -2,9 +2,10 @@
 Tạo office 365 E5 và kích hoạt Office 365 for desktop, điều chỉnh mặc định office 365, triển khai Math Type cho Office, tắt xác minh 2 yếu tố
 
 # ĐẶT VẤN ĐỀ #
-Tình hình nhu cầu sử dụng key Office tăng cao trong khi nguồn key khan hiếm, chưa kể một số bạn không biết cách kích hoạt qua điện thoại, nhập nhầm key bản office nên rất khó tìm ra giải pháp kích hoạt, Mình viết bài này để giúp các bạn sử dụng office 365 thật tiện lợi! Miễn là bạn có tài khoản Microsoft cá nhân hoặc tài khoản Office 365 A1, điều đó là tốt!
 
-Bây giờ mình sẽ tiến hành tạo tài khoản Admin cho riêng mình, Admin này có quyền tạo 25 người dùng, và được sử dụng trong 118 ngày kể từ ngày tạo Admin, sau đó Microsoft tự gia hạn thêm 118 nữa, lập đi lập lại nhiều lần.
+- Tình hình nhu cầu sử dụng key Office tăng cao trong khi nguồn key khan hiếm, chưa kể một số bạn không biết cách kích hoạt qua điện thoại, nhập nhầm key bản office nên rất khó tìm ra giải pháp kích hoạt, Mình viết bài này để giúp các bạn sử dụng office 365 thật tiện lợi! Miễn là bạn có tài khoản Microsoft cá nhân hoặc tài khoản Office 365 A1, điều đó là tốt!
+- Bây giờ mình sẽ tiến hành tạo tài khoản Admin cho riêng mình, Admin này có quyền tạo 25 người dùng, và được sử dụng trong 118 ngày kể từ ngày tạo Admin, sau đó Microsoft tự gia hạn thêm 118 nữa, lập đi lập lại nhiều lần.
+- Hiện nay cụ Microsoft đã khóa một số quốc gia không còn reget được, theo tôi được biết chỉ còn số điện thoại của quốc gia Mỹ là reget được, vậy nếu dùng phương pháp này thì quí vị nhờ cập ai ở bên Mỹ xác nhận mã code thì ok, sau đó reget xong thì chèn số điện thoại va email của mình vào!
 
 ![image](https://user-images.githubusercontent.com/82578024/215265073-f8e87338-bf04-408a-af23-ad7723bbda0a.png)
 
