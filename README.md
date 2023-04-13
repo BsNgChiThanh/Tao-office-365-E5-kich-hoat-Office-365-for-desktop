@@ -1,5 +1,6 @@
-# Tao-office-365-E5-kich-hoat-Office-365-for-desktop
-Tạo office 365 E5 và kích hoạt Office 365 for desktop, điều chỉnh mặc định office 365, triển khai Math Type cho Office, tắt xác minh 2 yếu tố
+Tác giả: Nguyễn Chí Thành
+
+![IMG_1674314482411_1674314628494](https://user-images.githubusercontent.com/82578024/231749370-cff3f452-4349-46bd-80e4-dd85653ca27f.jpg)
 
 # ĐẶT VẤN ĐỀ #
 
