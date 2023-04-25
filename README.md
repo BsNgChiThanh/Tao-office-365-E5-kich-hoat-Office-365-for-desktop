@@ -6,7 +6,7 @@ Tác giả: Nguyễn Chí Thành
 
 - Tình hình nhu cầu sử dụng key Office tăng cao trong khi nguồn key khan hiếm, chưa kể một số bạn không biết cách kích hoạt qua điện thoại, nhập nhầm key bản office nên rất khó tìm ra giải pháp kích hoạt, Mình viết bài này để giúp các bạn sử dụng office 365 thật tiện lợi! Miễn là bạn có tài khoản Microsoft cá nhân hoặc tài khoản Office 365 A1, điều đó là tốt!
 - Bây giờ mình sẽ tiến hành tạo tài khoản Admin cho riêng mình, Admin này có quyền tạo 25 người dùng, và được sử dụng trong 118 ngày kể từ ngày tạo Admin, sau đó Microsoft tự gia hạn thêm 118 nữa, lập đi lập lại nhiều lần.
-- Hiện nay cụ Microsoft đã khóa một số quốc gia không còn reget được, theo tôi được biết chỉ còn số điện thoại của quốc gia Mỹ là reget được, vậy nếu dùng phương pháp này thì quí vị nhờ cập ai ở bên Mỹ xác nhận mã code thì ok, sau đó reget xong thì chèn số điện thoại va email của mình vào!
+- Chú ý mỗi số điện thoại chỉ reget được một admin duy nhất!
 
 ![image](https://user-images.githubusercontent.com/82578024/215265073-f8e87338-bf04-408a-af23-ad7723bbda0a.png)
 
@@ -149,6 +149,19 @@ Bấm Next là ok, trong hình thì Account này mới kích hoạt được 3 P
 Một tài khoản hoạt được 10 máy.
 
 [Tài khoản A1Plus, A3, A5, E5 tạo sẵn, các bạn cứ dùng active thoải mái, bấm vào đây](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/EQa9vlOr8JdOqcUEYGyjjfQBvW7eHmeqtjR1KMf__A2lHw?e=Ssmr8h)
+
+# CHỈNH DUNG LƯỢNG ONEDRIVE TỪ 1Tb SANG 5Tb #
+
+- Đăng nhập tài khoản Admin.
+- ![image](https://user-images.githubusercontent.com/82578024/234431075-62f3e1ed-663f-4b1c-b87b-250e582b6703.png)
+- ![image](https://user-images.githubusercontent.com/82578024/234431162-107f309f-0a0e-4292-8ab4-6353a20ef953.png)
+- ![image](https://user-images.githubusercontent.com/82578024/234431335-518dc62f-248d-4d9c-9a14-f7b75963757e.png)
+- Bấm vô chỉnh sửa.
+- ![image](https://user-images.githubusercontent.com/82578024/234431545-942e4910-5601-4aff-a15b-3d1bdfc21513.png)
+- Sửa số lại 5120.
+- ![image](https://user-images.githubusercontent.com/82578024/234431600-ecf236d5-9c23-4ff2-b2d9-96605390e5f7.png)
+- ![image](https://user-images.githubusercontent.com/82578024/234431622-ab3be700-9ee9-4c59-9109-8499228ea97b.png)
+- Bấm lưu (Save) là xong!
 
 # ĐIỀU CHỈNH CÁC THÔNG SỐ MẶC ĐỊNH CHO OFFICE 365 #
 
