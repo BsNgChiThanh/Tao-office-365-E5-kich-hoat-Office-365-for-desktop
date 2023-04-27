@@ -98,6 +98,24 @@ https://user-images.githubusercontent.com/82578024/186059201-6391e0ae-7199-4b66-
 
 Sau khi đăng ký dùng miễn phí 12 tháng bạn liên kết miền này với admin office 365 E5 của bạn
 
+- Bạn đăng nhập Admin, Bất vào Setup
+- ![image](https://user-images.githubusercontent.com/82578024/234778150-0217071b-1cf6-4171-bc86-d7cf6cf37ded.png)
+- ![image](https://user-images.githubusercontent.com/82578024/234778411-f2eb57fe-b5e9-41f3-aba3-bfbef5306960.png)
+- ![image](https://user-images.githubusercontent.com/82578024/234780164-8c2ff1ec-6b1c-471b-b3ff-8cbb1598d02f.png)
+- ![image](https://user-images.githubusercontent.com/82578024/234783093-fad2e409-4586-49d2-bbb7-273821c369cb.png)
+- ![image](https://user-images.githubusercontent.com/82578024/234783282-623199c1-31a7-43df-9c20-e427713ae582.png)
+- ![image](https://user-images.githubusercontent.com/82578024/234783605-3d006251-709f-478d-bc79-6b59e98b2700.png)
+- ![image](https://user-images.githubusercontent.com/82578024/234784148-774a4401-8928-4ab6-85b2-958dd9c2f092.png)
+- ![image](https://user-images.githubusercontent.com/82578024/234784519-be2fe074-1938-4f66-b8a7-75e3a1e24208.png)
+- ![image](https://user-images.githubusercontent.com/82578024/234784936-7676c83d-929a-4cd4-9053-cff4dbb76dca.png)
+- ![image](https://user-images.githubusercontent.com/82578024/234785668-4c7524cf-d6ec-40ab-a1df-84918cedb588.png)
+- Chờ khoản 5 phút, sau đó bấm vào Verify, nếu lỗi chờ tiếp 5 phút bấm Verify lại.
+- ![image](https://user-images.githubusercontent.com/82578024/234786535-8e457945-c3f8-47cd-a595-a6371c3c2762.png)
+- ![image](https://user-images.githubusercontent.com/82578024/234786763-ea354ef2-154f-4031-b418-b5d861b927fe.png)
+- ![image](https://user-images.githubusercontent.com/82578024/234787021-5ed134b0-f20c-46a2-8570-b5a4442c9b24.png)
+- ![image](https://user-images.githubusercontent.com/82578024/234787235-8fb6fdc1-9abb-4a92-a6d3-c8921c73f07f.png)
+- ![image](https://user-images.githubusercontent.com/82578024/234787884-58db4cf7-1ed4-45fb-a81c-d6226156b6db.png)
+
 **[Xem video liên kết miền bấm vào đây](https://youtu.be/yRblwFAeL3I)**
 
 # DOWNLOAD BỘ OFFICE 365 CÀI ĐẶT CHO MÁY TÍNH (OFFICE 365 FOR DESKTOP) #
