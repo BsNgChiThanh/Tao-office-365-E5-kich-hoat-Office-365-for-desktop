@@ -13,11 +13,11 @@ Tác giả: Nguyễn Chí Thành
 
 # TẠO ADMIN OFFICE 365 E5 #
 
-Trước khi bắt đầu, bạn phải có một tài khoản Office 365 A1 hoặc một tài khoản Microsoft, nếu chưa có hãy [Bấm vào đây](https://signup.live.com/signup?lcid=1066&wa=wsignin1.0&rpsnv=13&ct=1650244868&rver=7.0.6738.0&wp=MBI_SSL&wreply=https%3a%2f%2faccount.microsoft.com%2fauth%2fcomplete-signin%3fru%3dhttps%253A%252F%252Faccount.microsoft.com%252F%253Frefp%253Dsignedout-index%2526refd%253Dwww.google.com.vn&lc=1066&id=292666&lw=1&fl=easi2&mkt=vi-VN&lic=1&uaid=c8a88be150cb420889abe413c4410122)
+Trước khi bắt đầu, bạn phải có một tài khoản Office 365 A1 hoặc một tài khoản Microsoft, nếu chưa có hãy **[Bấm vào đây](https://signup.live.com/signup?lcid=1066&wa=wsignin1.0&rpsnv=13&ct=1650244868&rver=7.0.6738.0&wp=MBI_SSL&wreply=https%3a%2f%2faccount.microsoft.com%2fauth%2fcomplete-signin%3fru%3dhttps%253A%252F%252Faccount.microsoft.com%252F%253Frefp%253Dsignedout-index%2526refd%253Dwww.google.com.vn&lc=1066&id=292666&lw=1&fl=easi2&mkt=vi-VN&lic=1&uaid=c8a88be150cb420889abe413c4410122)**
 
 Các bạn có thể dùng mail dạng @gmail.com hay @hotmal.com để đăng ký tài khoản Microsoft này
 
-[Bấm vào đây để bất đầu](https://developer.microsoft.com/en-us/microsoft-365/dev-program), sau đó đăng nhập tài khoản Microsoft hoặc tài khoản Office 365 A1 để bắt đầu đăng ký
+**[Bấm vào đây để bất đầu](https://developer.microsoft.com/en-us/microsoft-365/dev-program)**, sau đó đăng nhập tài khoản Microsoft hoặc tài khoản Office 365 A1 để bắt đầu đăng ký
 
 ![1](https://user-images.githubusercontent.com/82578024/163701400-d9eb95c4-aa10-4121-bee9-3391d6f3ad68.jpg)
 
