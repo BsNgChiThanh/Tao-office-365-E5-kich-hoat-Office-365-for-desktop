@@ -183,31 +183,33 @@ Một tài khoản hoạt được 10 máy.
 
 # CÀI ONEDRIVE ĐỒNG BỘ TRÊN MÁY TÍNH #
 
-Bam chuot phai vao bieu
+Bấm chuột phải vào biểu tượng Onedrive rồi chịn cài đặt
 
 ![image](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop/assets/82578024/625631b7-548e-45fa-962a-39a72b69b21d)
 
-Chon Account
+Chọn Account rồi bấm Add account vào:
 
 ![image](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop/assets/82578024/45b54a03-0f8f-43d6-aa79-b19760b8b57b)
 
-Dien tai khoan bam sign in
+Điền tài khoản rồi bấm Sign in
 
 ![image](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop/assets/82578024/741d250c-059d-4f0e-b890-ce1c3e332a14)
 
-Thay doi thu muc
+Thay đổi thư mục cài đặt:
 
 ![image](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop/assets/82578024/1145ae03-e650-472e-ba9f-841b8b15783a)
 
-Chon o nhieu dung luong de luu tru
+Chọn ổ đĩa nhiều dung lượng để lưu trữ
 
 ![image](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop/assets/82578024/62031c13-e770-47a4-a361-ee0b34fd54c0)
 
-Bam Next
+Bấm Next
 
 ![image](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop/assets/82578024/c0241719-e47d-4240-8826-749c4145b0de)
 
 ![image](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop/assets/82578024/d46e536c-a14e-40b7-8f75-9e842508834b)
+
+Bấm chuột phải vào onedrive đã cài và chọn Always keep on this device để bấm đầu quá trình đồng bộ tất cả:
 
 ![image](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop/assets/82578024/5846ba8b-e858-4372-b21b-6bcb40553cb0)
 
