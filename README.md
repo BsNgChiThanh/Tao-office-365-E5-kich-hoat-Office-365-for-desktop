@@ -181,6 +181,17 @@ Một tài khoản hoạt được 10 máy.
 - ![image](https://user-images.githubusercontent.com/82578024/234431622-ab3be700-9ee9-4c59-9109-8499228ea97b.png)
 - Bấm lưu (Save) là xong!
 
+# CÀI ONEDRIVE ĐỒNG BỘ TRÊN MÁY TÍNH #
+
+
+
+
+
+
+
+![image](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop/assets/82578024/5846ba8b-e858-4372-b21b-6bcb40553cb0)
+
+
 # ĐIỀU CHỈNH CÁC THÔNG SỐ MẶC ĐỊNH CHO OFFICE 365 #
 
 ## 1. Bỏ mặc định trang khởi động Office 365. ##
