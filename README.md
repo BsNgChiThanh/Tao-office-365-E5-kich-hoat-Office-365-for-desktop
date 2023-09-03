@@ -321,6 +321,17 @@ A. Phần bổ trợ:
 - ![image](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop/assets/82578024/41c93ba5-0720-4c58-a85a-aef598e1196c)
 - ![image](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop/assets/82578024/dec48dbe-6b8f-4a9a-8885-777b3f6cd83c)
 
+**Nếu cập nhập mà chỉ dùng riêng cho mình:
+
+- ![image](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop/assets/82578024/7625ab94-c812-455a-9416-ee2e5fb7a38d)
+
+**Hãy cập nhật lại cho tổ chức bằng cách bấm chuột trái 2 cái vào phần bổ trợ cần cập nhật:**
+
+- ![image](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop/assets/82578024/abdccd9e-2fdb-404d-a9db-e853a7dc20d1)
+- ![image](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop/assets/82578024/e38c29e2-ae02-4144-ae45-46c1e6a4ea98)
+- ![image](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop/assets/82578024/1cec8693-44bb-432a-8552-55f9af623875)
+- ![image](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop/assets/82578024/2d4179cb-3cb3-4279-8d1d-9cac34d124c4)
+
 B. Phần Mail Exchange:
 
 - ![image](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop/assets/82578024/71e3832a-cd8f-4278-8cfd-80e807a175e9)
