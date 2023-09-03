@@ -295,27 +295,44 @@ POWER VIRTUAL: [Bấm vào đây](https://powervirtualagents.microsoft.com/en-us
 
 POWER AUTOMATE: [Bấm vào đây](https://flow.microsoft.com/vi-vn/)
 
-# MỘT SỐ TÀI KHOẢN 365 A1+ #
+## LƯU Ý: ##
 
-|Tài khoản|Password|
-|--|--|
-|awilson29@twu.edu	|Cupcake7899!
-|aadame110@email.itt-tech.edu|mouw91011
-|cward14@twu.edu|Jeeplife2007!|
-|dengland112@email.itt-tech.edu|02231978
-|jcasimere@twu.edu|Charmayne23!
-|jwhite223@email.itt-tech.edu|jw448016|
-|jcasimere@twu.edu|Charmayne23!|
-|HJones13@twu.edu|hAujanae1!| 
-|kjenkins8@twu.edu	| Sarah3881_
-|skent110@email.itt-tech.edu|08131984 
-|vbanda@twu.edu|Focus_2015| 
-|vbennett@twu.edu |Senior2014!|
-|vh5595@stu.armstrong.edu |Vanessa123| 
-|vhernandez18@twu.edu |Her123456!| 
-|vnguyen16@twu.edu |123Uyenvy!| 
-|vw6244@stu.armstrong.edu |0kkky3aa| 
-|we2838@stu.armstrong.edu |	whitney1|
-|wesleymirandadasilva@ied.edu |00BR0000022679|  
+**Gần đây Microsoft nói rằng chúng ta phải triển khai thêm một số phần bổ trợ và Mail Exchange (100Gb) cho mổi user cá nhân thì các admin mới sống lâu được.**
+
+A. Phần bổ trợ:
+
+- Đầu tiên chúng ta đăng nhập tài khoản Admin E5
+- ![image](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop/assets/82578024/7fcdc031-34c1-435a-8731-5d815e23192e)
+- Sau đó kích vào link: https://admin.microsoft.com/Adminportal/Home#/Settings/IntegratedApps
+- ![image](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop/assets/82578024/212c26b1-ef70-42b8-9955-15682956bd4b)
+- Kéo xuống bên dưới chọn phần bổ trợ:
+- ![image](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop/assets/82578024/f7b27081-318b-4037-b2d7-c8a0cb0cd565)
+- Có rất nhiều phần bổ trợ, hãy chọn cho mình một đến 2 phần để triển khai cho toàn thể các user. Ví dụ tôi chọn:
+- ![image](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop/assets/82578024/a8ace1ee-f02a-4487-96bc-d15425d3eba0)
+- ![image](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop/assets/82578024/7d225aa8-fdb7-4092-9cd2-0c84978e5c45)
+- ![image](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop/assets/82578024/0188e8b3-308e-41be-908f-485e3947cbf5)
+- ![image](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop/assets/82578024/b15480e3-d194-4107-83e5-8a6bb5eb46a7)
+- ![image](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop/assets/82578024/8df2a656-e987-474a-b271-620bdfc565ed)
+- Sau đó chúng bắt đăng nhập lại tài khoản admin, bấm đúng tài khoản và chập thuận:
+- ![image](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop/assets/82578024/f7f25588-e977-4c9b-b6a1-c17c9109c4d4)
+- ![image](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop/assets/82578024/c2d783a9-f2fb-4701-bfb9-cb7037629840)
+- ![image](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop/assets/82578024/d5f6eaf6-2fb6-428d-b59c-8b05dc3ec66a)
+- ![image](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop/assets/82578024/9cc52eb7-bcfa-451b-9add-0b9475c71ba9)
+- ![image](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop/assets/82578024/41c93ba5-0720-4c58-a85a-aef598e1196c)
+- ![image](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop/assets/82578024/dec48dbe-6b8f-4a9a-8885-777b3f6cd83c)
+
+B. Phần Mail Exchange:
+
+- ![image](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop/assets/82578024/71e3832a-cd8f-4278-8cfd-80e807a175e9)
+- ![image](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop/assets/82578024/24252e2b-70ed-4d98-b144-1d2db6e72c1d)
+- Bấm chuột trái 2 cái liền vào tài khoản admin:
+- ![image](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop/assets/82578024/3419e0d0-60dc-4b7d-ac1d-345d61e68264)
+- Click tất cả và lưu thay đổi, nếu báo lỗi thoát ra làm lại.
+- ![image](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop/assets/82578024/e38dbe8f-c602-42f2-9c59-9affc699a434)
+- Dung lượng một mail là 100Gb.
+- ![image](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop/assets/82578024/c2822470-2de1-4ccb-b2f3-4e8a997cbdb1)
+- Chúng ta vào App Gmail của điện thoại đăng nhập mail exchange bằng tài khoản admin, để nhận và gởi thư rất ngon cơm.
+- Mail của gmail chỉ được 15Gb thôi. Vậy mail Exchange này thật tuyệt phải không nào?
 
 [Chia sẻ địa điểm trên Google map](https://goo.gl/maps/KVPg6Z9B85fP9Y4g9)
+
