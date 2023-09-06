@@ -279,6 +279,10 @@ Nếu vẫn chưa hiện thước, bạn vô Tab View
 
 Bấm Ruler là Xong.
 
+# TẮT ENABLE TRONG OFFICE: #
+
+![image](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop/assets/82578024/785a5ca2-3754-4608-8afe-87130593859c)
+
 # TẠO MATH TYPE CHO OFFICE 365 E5 #
 
 Nhiều người đi tìm Math Type, mua key tốn kém, crack tốn nhiều công sức mà không an tâm, một giải pháp không phải ai cũng biết: Microsoft triển khai Math Type cho Office 365 E5, có cả 2 phần công thức toán và hóa học. [Bấm vào đây để tham khảo](https://youtu.be/SPRKoLiTKEw)
