@@ -287,6 +287,34 @@ Bấm Ruler là Xong.
 
 Nhiều người đi tìm Math Type, mua key tốn kém, crack tốn nhiều công sức mà không an tâm, một giải pháp không phải ai cũng biết: Microsoft triển khai Math Type cho Office 365 E5, có cả 2 phần công thức toán và hóa học. [Bấm vào đây để tham khảo](https://youtu.be/SPRKoLiTKEw)
 
+# SỬA LỖI CHỮ DÍNH LIỀN: #
+
+- ![image](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop/assets/82578024/2a505094-09cd-4884-8a25-93349cb86192)
+
+# SỬA LỖI CHỮ BỊ TÁCH ĐÔI, TÁCH BA: #
+
+- ![image](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop/assets/82578024/ee2008dd-73f6-45a5-8c88-4e8e2827f78c)
+
+- ![image](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop/assets/82578024/15be3158-04ee-48e7-84d0-8df147053ccd)
+
+# LỖI MÃ FONT CHỮ: #
+
+- [Tải Unikey](https://github.com/BsNgChiThanh/UniKeyNT), chạy Unikey trên máy tính.
+- Mở file chứa nội dụng văn bản gốc, sao chép đoạn cần đổi font bằng cách copy
+- ![image](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop/assets/82578024/f3354f24-2746-4995-bfa7-55af159ee66d)
+- Chuột phải vào biểu tượng Unikey ở góc phải dưới màn hình, chọn Công cụ… hoặc nhấn **Ctrl+Shift+F6**
+- ![image](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop/assets/82578024/ab677c30-70ba-446a-99b0-67b58d416260)
+- Hộp thoại Unikey Toolkit xuất hiện, bạn làm theo thứ tự sau:
+  - Chọn Bảng mã Nguồn (theo ví dụ là TCVN3)
+  - Chọn Bảng mã Đích (bảng mã bạn muốn chuyển tới, ở đây ví dụ là bảng mã Unicode)
+  - Cùng 1 vài lựa chọn khác
+- Sau khi đã lựa chọn xong thì nhấn Chuyển mã
+- ![image](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop/assets/82578024/05622425-4bc5-4a5c-92a2-c22b666284f3)
+- Khi đó 1 hộp thoại thông báo bạn đã chuyển mã thành công.
+- ![image](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop/assets/82578024/fb8397ff-9c7b-46b0-903d-dcd6f42de87a)
+- Dán (nhấn Ctrl+V) nội dung văn bản vào file mới. Nội dung văn bản sau khi chuyển mã font hiển thị như sau:
+- ![image](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop/assets/82578024/c55b8366-b679-488d-8266-d521198bc49f)
+
 # LẤY THÊM GIẤY PHÉP CHO ADMIN OFFICE 365 E5 #
 
 Đăng nhập Admin 365 vào các Link sau để lấy thêm giấy phép:
